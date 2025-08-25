@@ -57,11 +57,6 @@ React-Tic-Tac-Toe/
 
 ---
 
-## 📸 Preview
-(Add a screenshot of your app here if you want)
-
----
-
 ## 🌟 Future Improvements
 - Add AI opponent
 - Add scoreboard
