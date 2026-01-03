@@ -63,7 +63,10 @@ React-Tic-Tac-Toe/
 - Add animations and sound effects
 
 ---
+## License
+This project is licensed under the MIT License.
 
+---
 ## 👨‍💻 Author
 **Muazzam Mahmood**  
 🔗 [My LinkedIn](https://www.linkedin.com/in/muazzam-mahmood-3b977a296/)
